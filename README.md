@@ -5,11 +5,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Yuki Mishima](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1534&theme=algolia)
 
-<!---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1534&theme=graywhite)
---->
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1534)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
