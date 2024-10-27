@@ -5,18 +5,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Yuki Mishima](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1534&theme=algolia)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-</p>
+<h1>
+  Languages and Tools
+</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,java,spring,maven,redis,mysql,cassandra,jenkins,docker,kubernetes&theme=light)](https://skillicons.dev)
